@@ -1,0 +1,47 @@
+1. Kaggle - House Prices: Advanced Regression Techniques
+Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+Includes ~80 features (lot size, neighborhood, year built, etc.)
+
+Great for feature engineering and model experimentation
+
+
+
+2. Scikit-learn’s Boston Housing Dataset (Deprecated)
+
+Avoid for new projects due to ethical concerns (can still be used for educational purposes)
+
+
+
+3. Zillow’s Public Data
+Link: https://www.zillow.com/research/data/
+
+Real, large-scale housing data in the US
+
+
+
+4. UCI Machine Learning Repository – Housing Data
+Link: https://archive.ics.uci.edu/ml/datasets.php
+
+Smaller datasets like the California Housing dataset
+
+
+
+
+
+---
+
+Smart Regression Techniques to Apply:
+
+Linear Regression (baseline model)
+
+Ridge & Lasso Regression (regularization to handle multicollinearity)
+
+Random Forest Regressor (non-linear, handles feature interactions)
+
+Gradient Boosting Machines (like XGBoost or LightGBM)
+
+Neural Networks / Deep Learning (if large dataset is available)
+
+Stacking or Ensemble Models (combine predictions from multiple regressors)
+
